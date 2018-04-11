@@ -26,8 +26,27 @@ By the end
 
 - A **Conversion** is an action taken by your user on your website (purchase, sign-up, download etc.).
 
+- According to [this article](https://www.marketingsherpa.com/article/chart/average-website-conversion-rates-by) the conversion rate is based on industry sector
 ```
 It’s a Number Game:
 Traffic x Conversion Rate x $ AOV = Revenue – Ads Cost = Profits
 AOV = Average Order Value (shopping cart basket value)
 ```
+
+### The New Definition of SEO that Will Shape Your Digital Marketing Strategies for 2018 & Beyond
+- Search engine optimization (SEO):
+is the process of improving the visibility of a website or a web page in search engines via the "natural" or unpaid
+("organic") search results. 
+
+***NEW DENIFINTION OF SEO***: Search Experience Optimization
+- In simple terms, ‘search experience optimization’ represents the overlap between search engine optimization and conversion rate optimization.
+- Understanding how the average searchers, and more specifically, your target market, search for a topic related to your
+products/services, will help you more effectively reach and keep them.
+
+### The Mission of the Search Engines
+- Search engines filter through billions of pages to providethe most accurate and relevant search results.
+- Their mission is to quickly and efficiently provide you, the user, with relevant, spam-free results through the organic and sponsored listings.
+
+- Business Model of Google Search Engine? Search engines generate revenue primarily through advertising.
+- Almost all of this revenue comes from a `pay-per-click`  (or cost-per-click) model. So the more they serve us relevant results the more we’ll return to use them and we may click on some of their relevant targeted Ads.
+ 
