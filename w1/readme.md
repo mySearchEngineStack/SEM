@@ -18,3 +18,16 @@ By the end
  - Traffic You Own. This is simply your email list, Facebook fans, twitter followers etc. Since you own this traffic, you can send it anywhere, anytime you want.
 
 #### BEST PRACTISE: Turn ALL Traffic to a Traffic You Own!
+
+### Contribution rates
+- According to [Conductor article](https://www.conductor.com/blog/2014/07/organic-search-actually-responsible-64-web-traffic/) Paid Search is Responsible for about 6% of Web Site Traffic compared to other Channels.
+- SEO for 64%
+- Social for 2%, etc ...
+
+- A **Conversion** is an action taken by your user on your website (purchase, sign-up, download etc.).
+
+```
+It’s a Number Game:
+Traffic x Conversion Rate x $ AOV = Revenue – Ads Cost = Profits
+AOV = Average Order Value (shopping cart basket value)
+```
