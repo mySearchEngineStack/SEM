@@ -50,3 +50,41 @@ products/services, will help you more effectively reach and keep them.
 - Business Model of Google Search Engine? Search engines generate revenue primarily through advertising.
 - Almost all of this revenue comes from a `pay-per-click`  (or cost-per-click) model. So the more they serve us relevant results the more we’ll return to use them and we may click on some of their relevant targeted Ads.
  
+ ***Golden Triangle*** : When only Organic Listings are present on the SERP, the search pattern is still similar to
+the traditional Golden Triangle behaviour. However, page scanning is quicker, and less horizontal.[[1]](https://en.wikipedia.org/wiki/Golden_Triangle_(Internet_Marketing))
+- On February 19, 2016, Google confirmed it was eliminating text ads from the right side of search results on desktop.
+- The structure now is : Ads > Organic > Ads
+- The new change in Feb 2016 caused the overall, CTRs for the top four ad slots to be risen 49% since the change.
+
+### Before lunching your Ad Campaign you have to define goals, objectives, and the following:
+- Media plan (budget, CTRs targets etc.)
+- Channels where to run your Ads
+- Timelines: for how long your Ads will run
+- Tracking (UTM) & Measurement (KPIs, ROI etc.)
+- Analysis and optimization
+
+### Ads Ranking factors
+#### Ad Rank
+AdRank as defined by Google is ‘’A value that's used to determine your ad position (where ads are shown on a page relative to other ads) and whether your ads will show at all.’’ on the Search Results Pages (SERPs)
+
+`AdRank = CPC Bid X Quality Score`
+
+- Your AdRank impact how much your cost per click based on the following concept:
+``
+Your Cost = AdRank under you / you quality score + $0.01
+``
+Which means you’ll pay less for your Clicks when you Ads have a higher Quality Score than your competitor.
+#### Here is an important announcement by Google about AdRank:
+- [Official AdWords Blog](https://adwords.googleblog.com/2013/10/improving-ad-rank.html): “AdRank Improvements: … Previously, Ad Rank was calculated using your max CPC bid and your Quality Score. 
+- With this update, Ad Rank will also take into account a **third component: the expected impact from your ad extensions and
+formats.**
+- 
+
+
+### Keywords:
+- SERP : Search Engine Result Page
+- CTR: [Click through rate](https://en.wikipedia.org/wiki/Click-through_rate)
+- CPC : Cost Per Click
+- PPC: Per Per Click
+- [Extensions](https://support.google.com/adwords/answer/2375499): additional information about business.
+- 
