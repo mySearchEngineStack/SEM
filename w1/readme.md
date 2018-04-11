@@ -63,8 +63,8 @@ the traditional Golden Triangle behaviour. However, page scanning is quicker, an
 - Tracking (UTM) & Measurement (KPIs, ROI etc.)
 - Analysis and optimization
 
-### Ads Ranking factors
-#### Ad Rank
+## Ads Ranking factors
+### Ad Rank
 AdRank as defined by Google is ‘’A value that's used to determine your ad position (where ads are shown on a page relative to other ads) and whether your ads will show at all.’’ on the Search Results Pages (SERPs)
 
 `AdRank = CPC Bid X Quality Score`
@@ -74,11 +74,19 @@ AdRank as defined by Google is ‘’A value that's used to determine your ad po
 Your Cost = AdRank under you / you quality score + $0.01
 ``
 Which means you’ll pay less for your Clicks when you Ads have a higher Quality Score than your competitor.
-#### Here is an important announcement by Google about AdRank:
-- [Official AdWords Blog](https://adwords.googleblog.com/2013/10/improving-ad-rank.html): “AdRank Improvements: … Previously, Ad Rank was calculated using your max CPC bid and your Quality Score. 
+- Here is an important announcement by Google about AdRank: [Official AdWords Blog](https://adwords.googleblog.com/2013/10/improving-ad-rank.html): “AdRank Improvements: … Previously, Ad Rank was calculated using your max CPC bid and your Quality Score. 
 - With this update, Ad Rank will also take into account a **third component: the expected impact from your ad extensions and
 formats.**
 - 
+### Quality Score
+ is an Algorithm that shows how healthy your ads and keywords are and will determine how high your Ad will Rank on SERPs.
+- Here are the big 3 key components that determine your ads quality:
+- Ad Relevance (keywords, users’ intentions)
+- Expected CTR (creatives, text ads)
+- Landing Page User Experience (relevancy)
+
+
+
 
 
 ### Keywords:
