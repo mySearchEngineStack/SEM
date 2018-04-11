@@ -77,7 +77,7 @@ Which means you’ll pay less for your Clicks when you Ads have a higher Quality
 - Here is an important announcement by Google about AdRank: [Official AdWords Blog](https://adwords.googleblog.com/2013/10/improving-ad-rank.html): “AdRank Improvements: … Previously, Ad Rank was calculated using your max CPC bid and your Quality Score. 
 - With this update, Ad Rank will also take into account a **third component: the expected impact from your ad extensions and
 formats.**
-- 
+
 ### Quality Score
  is an Algorithm that shows how healthy your ads and keywords are and will determine how high your Ad will Rank on SERPs.
 - Here are the big 3 key components that determine your ads quality:
@@ -85,8 +85,17 @@ formats.**
 - Expected CTR (creatives, text ads)
 - Landing Page User Experience (relevancy)
 
-
-
+### Click Through Rate
+(CTR) is the ratio of clicks on your link to impressions your link receives.
+```
+CTR = Clicks / Impression X 100
+```
+- Mobile has the highest CTRs though all Ads channels.
+- CTR varies depending on the placement of your Ad in Search Results.
+- The higher your ad is ranked the higher your CTR
+- CTR varies depending on the type of Ads format you use
+- The CTR on Adwords accross all industries is 3.17% on the Search Network and 0.46% on the Display network.
+- The Cost Per Click (CPC) in Adwords accross all industries is $2.69% on the Search Network and 0.63% on the Display network
 
 
 ### Keywords:
